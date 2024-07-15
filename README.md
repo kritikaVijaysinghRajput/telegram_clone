@@ -16,9 +16,6 @@ This project is a clone of the popular messaging application Telegram, focusing 
 
 - **Frontend**: React.js, CSS (or styled-components for styling).
 
-## Screenshots
-
-Include screenshots demonstrating the UI of the Telegram clone here.
 
 ## Installation and Usage
 
