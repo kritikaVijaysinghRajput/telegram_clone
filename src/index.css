@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'OPEN_SANS_Regular';
+  src: url('../fonts/OpenSans.ttf');
+}
+
+* {
+  font-family: 'OPEN_SANS_Regular';
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #c8c6c6;
+  border-radius: 10px; 
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888; 
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #c2c2c2; 
+}
+.telegram-bg{
+  background-image: url('https://twallpaper.js.org/patterns/animals.svg');
+  background-repeat: repeat-x;
+}
