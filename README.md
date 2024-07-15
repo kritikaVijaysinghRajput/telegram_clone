@@ -27,6 +27,12 @@ Include screenshots demonstrating the UI of the Telegram clone here.
    git clone https://github.com/your-username/telegram-clone.git
    cd telegram-clone/frontend
 
-2. npm install
 
 ### deployed link
+
+https://telegram-clone-iota.vercel.app/
+
+---
+Kritika Rajput
+---
+email: kritikarajput203@gmail.com
